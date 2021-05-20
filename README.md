@@ -1,6 +1,6 @@
 # App News
 
-## General info
+## Descripción
 Aplicacion movil de noticias de mexico
 
 ## Capturas
